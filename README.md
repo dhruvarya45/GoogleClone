@@ -1,16 +1,10 @@
-# google
+Google Clone
 
-A new Flutter project.
+A completely Responsive Google Clone-Works on Android, iOS and Web!!
 
-## Getting Started
+Features!
+1. Responsive Google UI.
+2. Fetches Results from Google's Custom Search API
+3. Pagination
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
